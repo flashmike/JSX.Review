@@ -1,0 +1,17 @@
+.heading {
+  color: rgb(25, 69, 190);
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p,
+ul {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.thumb-img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100px;
+}
